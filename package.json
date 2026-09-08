@@ -1,0 +1,10 @@
+{
+  "name": "gg-odontologia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional G&G Odontología — Encarnación, Paraguay",
+  "scripts": {
+    "dev": "npx --yes serve . -p 3000",
+    "start": "npm run dev"
+  }
+}
